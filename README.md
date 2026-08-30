@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Ebad! 
+
+Welcome to my GitHub profile! I am a passionate Web Development student currently learning modern technologies at **SMIT (Saylani Mass IT Training)**.
+
+---
+
+## 🚀 About Me & What I'm Learning
+
+- 📖 **Currently Learning:** CSS3, Responsive Design & Layouts (Flexbox/Grid)
+- ✅ **Completed:** HTML5 (All Assignments Done!)
+- 🎯 **Next Up:** JavaScript (JS/ES6), React.js, Node.js
 
 <!--
 **muhammad-ebad-05/muhammad-ebad-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
