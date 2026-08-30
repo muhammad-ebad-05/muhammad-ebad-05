@@ -9,6 +9,44 @@ Welcome to my GitHub profile! I am a passionate Web Development student currentl
 - 📖 **Currently Learning:** CSS3, Responsive Design & Layouts (Flexbox/Grid)
 - ✅ **Completed:** HTML5 (All Assignments Done!)
 - 🎯 **Next Up:** JavaScript (JS/ES6), React.js, Node.js
+- 🚀 Aspiring Full-Stack Developer | 🎓 SMIT Student
+I'm currently learning Web Development and building projects along the way.
+
+---
+
+## 🛠️ Currently Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
+
+---
+
+## 🚀 My Learning Journey
+
+I'm pursuing a Modern Web Application Development course at SMIT and building projects with every new concept I learn.
+Completed HTML5 → Moving to CSS3 → JavaScript Up Next! 🔥
+
+---
+
+## 📂 My Projects & Repositories
+
+- 📁 Created **4 repositories** so far, containing all my SMIT HTML assignment projects.
+- 📌 Working on layout designs and daily code practice.
+
+---
+
+## 🎯 My Goal
+
+To become a professional Full-Stack MERN Developer by continuously learning, building, and deploying real-world projects.
+
+---
+
+## 📈 What I'm Doing
+
+Learn → Build → Deploy → Improve → Repeat 🔁
 
 <!--
 **muhammad-ebad-05/muhammad-ebad-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
