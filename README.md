@@ -32,11 +32,10 @@ Completed HTML5 → Moving to CSS3 → JavaScript Up Next! 🔥
 ---
 
 ## 📂 My Projects & Repositories
-📁 Created 5 repositories so far, containing all my SMIT HTML assignment projects.
-📌 Working on layout designs and daily code practice.
 
 
-- 📁 Created **4 repositories** so far, containing all my SMIT HTML assignment projects.
+
+- 📁 Created **5 repositories** so far, containing all my SMIT HTML assignment projects.
 - 📌 Working on layout designs and daily code practice.
 
 ---
