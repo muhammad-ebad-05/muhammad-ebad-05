@@ -75,7 +75,7 @@ A frontend landing page project created using HTML5 and CSS3.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="Top Languages" />
+<!-- <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="Top Languages" /> -->
 
 </div>
 
