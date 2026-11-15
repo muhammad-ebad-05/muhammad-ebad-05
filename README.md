@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/ebad-banner.svg" width="100%" alt="Muhammad Ebad Animated Developer Banner" />
+<img src="./ebad-banner.svg" width="100%" alt="Muhammad Ebad Animated Developer Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Progress;SMIT+Web+Development+Student;Future+MERN+Stack+Developer;Keep+Learning+Keep+Building" alt="Typing Animation" />
 
