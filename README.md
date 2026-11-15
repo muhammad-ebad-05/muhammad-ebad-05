@@ -1,10 +1,14 @@
  <div align="center">
 
-<img src="banner.png" width="100%" alt="Muhammad Ebad - Developer Banner" />
+<img src="./coding-photo.png" width="100%" alt="Muhammad Ebad Coding Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Progress;SMIT+Web+Development+Student;Future+MERN+Stack+Developer;Learn+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing animation" />
+# 💚 MUHAMMAD EBAD
 
-**Building My Future, One Line of Code at a Time.**
+### Aspiring Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Progress;SMIT+Web+Development+Student;Future+MERN+Stack+Developer;Keep+Learning+Keep+Building" alt="Typing Animation" />
+
+**LEARN • BUILD • CREATE • INNOVATE**
 
 </div>
 
@@ -12,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Ebad**, a passionate web development student who loves learning new technologies and creating websites.
+Hi! I'm **Muhammad Ebad**, a passionate web development student who loves creating modern websites and learning new technologies.
 
 - 🎓 Web Development Student at **SMIT (Saylani Mass IT Training)**
 - ✅ Completed HTML5
@@ -57,11 +61,11 @@ Hi! I'm **Muhammad Ebad**, a passionate web development student who loves learni
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🌐 Landing Page With HTML & CSS
 
-A frontend landing page created using HTML5 and CSS3.
+A frontend landing page project created using HTML5 and CSS3.
+
+<div align="center">
 
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-4ADE80?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/muhammad-ebad-05/Landing-Page-With-Html-And-CSS-)
 
@@ -73,7 +77,7 @@ A frontend landing page created using HTML5 and CSS3.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="GitHub Statistics" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="Top Languages" />
 
@@ -85,7 +89,7 @@ A frontend landing page created using HTML5 and CSS3.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -109,7 +113,7 @@ A frontend landing page created using HTML5 and CSS3.
 
 ### LEARN → PRACTICE → BUILD → DEPLOY → GROW
 
-**"Consistency is the key to becoming a better developer."**
+*"Consistency is the key to becoming a better developer."*
 
 </div>
 
@@ -121,6 +125,6 @@ A frontend landing page created using HTML5 and CSS3.
 
 **Keep Learning. Keep Coding. Keep Growing.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:4ADE80&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:4ADE80&height=120&section=footer" width="100%" alt="Green Footer" />
 
 </div>
