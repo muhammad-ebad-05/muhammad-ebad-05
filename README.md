@@ -73,11 +73,11 @@ A frontend landing page project built using HTML and CSS.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=4ADE80&text_color=F5F5F5&bg_color=101010" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub Streak" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="Top Languages" />
 
 </div>
 
