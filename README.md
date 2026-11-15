@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./ebad-banner.svg" width="100%" alt="Muhammad Ebad Animated Developer Banner" />
 
@@ -33,13 +33,13 @@ Hi! I'm **Muhammad Ebad**, a passionate Web Development student who loves buildi
 
 <div align="center">
 
-### Languages & Technologies
+**Languages & Technologies**
 
 ![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=4ADE80)
 ![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=4ADE80)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-101010?style=for-the-badge&logo=bootstrap&logoColor=4ADE80)
 
-### Tools I Use
+**Tools I Use**
 
 ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=4ADE80)
 ![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=4ADE80)
@@ -82,39 +82,35 @@ A frontend landing page project built using HTML5 and CSS3.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="GitHub Statistics" />
-
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-ebad-05&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=F5F5F5&bg_color=101010" alt="Most Used Languages" />
 
-</div>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub Contribution Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=muhammad-ebad-05&theme=dark&hide_border=true&background=101010&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🌱 Currently Working On
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ebad-05&bg_color=101010&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
-
-</div>
+- Improving my HTML and CSS skills
+- Practicing responsive website layouts
+- Creating modern landing pages
+- Exploring new frontend development techniques
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏅 My Developer Milestones
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=muhammad-ebad-05&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Profile Trophies" />
+| Milestone | Achievement |
+|:---|:---|
+| HTML5 | ✅ Completed |
+| First Landing Page | ✅ Built |
+| GitHub Profile | ✅ Created |
+| CSS3 | 🟢 In Progress |
+| JavaScript | 🎯 Next Goal |
+| MERN Stack | 🚀 Future Goal |
 
 </div>
 
@@ -150,8 +146,6 @@ A frontend landing page project built using HTML5 and CSS3.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=4ADE80)](https://github.com/muhammad-ebad-05)
-
-<!-- Add your LinkedIn and professional email links here when available -->
 
 </div>
 
