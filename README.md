@@ -1,10 +1,6 @@
  <div align="center">
 
-
-
-# 💚 MUHAMMAD EBAD
-
-### Aspiring Full Stack Developer
+<img src="./assets/ebad-banner.svg" width="100%" alt="Muhammad Ebad Animated Developer Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Progress;SMIT+Web+Development+Student;Future+MERN+Stack+Developer;Keep+Learning+Keep+Building" alt="Typing Animation" />
 
@@ -38,7 +34,7 @@ Hi! I'm **Muhammad Ebad**, a passionate web development student who loves creati
 
 ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=4ADE80)
 ![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=4ADE80)
-![VS Code](https://img.shields.io/badge/VS_Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=4ADE80)
+![VS_Code](https://img.shields.io/badge/VS_Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=4ADE80)
 
 </div>
 
@@ -61,11 +57,11 @@ Hi! I'm **Muhammad Ebad**, a passionate web development student who loves creati
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🌐 Landing Page With HTML & CSS
 
 A frontend landing page project created using HTML5 and CSS3.
-
-<div align="center">
 
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-4ADE80?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/muhammad-ebad-05/Landing-Page-With-Html-And-CSS-)
 
