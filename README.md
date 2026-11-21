@@ -86,13 +86,13 @@ I am pursuing an intensive **1-Year Modern Web and App Development** diploma at 
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects Showcase
 
-| Project | Key Features | Stack | Repository |
+| Project | Key Features | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| ⚡ **Alpha Agency** | Startup landing page with custom branding & interactive estimator tool. | HTML5, CSS3, JS | [View Code](https://github.com/muhammad-ebad-05/Alpha-Agency) |
-| 🌐 **Welfare Portal** | Modern multi-page interface designed with responsive layout structures. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05) |
-| 🧪 **Periodic Table App** | Clean, interactive chemical elements matrix built strictly from scratch. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05) |
+| 🚀 **Alpha Agency** | Startup landing page with custom branding, services layout, and interactive estimators. | HTML5, CSS3, JS | [View Code](https://github.com/muhammad-ebad-05/Alpha-Agency) |
+| 🏰 **Explore Sindh** | Regional travel & historical showcase platform structured with clean semantic markup. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05/Explore-Sindh) |
+| 🧪 **Periodic Table App** | Digital chemical elements matrix built using clean semantic HTML and custom CSS. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05/Periodic-Table-HTML-CSS) |
 
 ---
 
