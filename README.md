@@ -1,31 +1,17 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Muhammad+Ebad;Frontend+Web+Developer;SMIT+Trainee+%7C+Batch+12" alt="Muhammad Ebad" />
+</div>
 
-  <!-- 🌟 PROFILE IMAGE / DP 🌟 -->
-  <!-- Agar aap apni pic use karna chahein, toh 'src' link change kar dein -->
-  <img src="https://i.imgur.com/YourGeneratedPic.png" width="180" height="180" alt="Muhammad Ebad" style="border-radius: 50%; border: 5px solid #58A6FF; box-shadow: 0px 0px 15px #58A6FF;" />
+<br />
 
-  <br />
-  <br />
-
-  <!-- 🚀 ANIMATED TYPING SVG HEADER 🚀 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Muhammad+Ebad+%F0%9F%91%8B;SMIT+Certified+Web+%26+App+Developer;Roblox+Game+Creator+%26+AI+Builder;Crafting+Pixel-Perfect+Digital+Experiences" alt="Muhammad Ebad Typing Banner" />
-
-  <p align="center">
-    <b>Frontend Developer | UI/UX Enthusiast | Game & AI Creator</b>
-    <br />
-    <em>📍 Karachi, Pakistan</em>
-  </p>
-
-  <!-- 🏆 DYNAMIC BADGES 🏆 -->
-  <a href="mailto:mebad858@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mebad858%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center">
   <a href="https://github.com/muhammad-ebad-05">
-    <img src="https://img.shields.io/badge/GitHub-muhammad--ebad--05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-muhammad--ebad--05-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=muhammad-ebad-05&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+  <a href="mailto:mebad858@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mebad858@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-ebad-05&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <br />
@@ -34,75 +20,43 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education & Training:** Student at **SMIT (Saylani Mass IT Training)**.
-  - 💻 **Major:** Modern Web & App Development (1-Year Program).
-  - 🎮 **Certification:** AI & Roblox Game Creator (Summer Camp).
-- 🔭 **Currently Focused On:** Mastering JavaScript (ES6+), React.js, and building responsive user interfaces.
-- 🛠️ **Core Skills:** HTML5, CSS3, Tailwind CSS, JavaScript, Git/GitHub, Roblox Studio (Lua), AI Prompting Basics.
-- ⚡ **Goal:** To become a proficient Full-Stack Developer and leverage AI in creating immersive gaming experiences.
+A passionate aspiring **Frontend Web Developer** based in Karachi, Pakistan. Currently, I am undergoing intensive professional training at **SMIT (Saylani Mass IT Training)** in the *Modern Web and App Development* program.
+
+### 🎓 SMIT Course Progress
+
+Currently enrolled in the 1-Year Diploma program. My learning journey is structured into specific modules.
+
+| Module # | Status | Focus Area / Technologies |
+| :--- | :--- | :--- |
+| **01** | ✅ **Completed** | **Foundational Web Technologies:** Advanced HTML5 Semantics, CSS3 Styling, Responsive Web Design (RWD), CSS Flexbox & Grid. |
+| **02** | 🚧 **In Progress**| **JavaScript Deep Dive:** ES6+, DOM Manipulation, Asynchronous JS, API Integration, Modern JS Frameworks. |
+| **03** | 🔜 **Upcoming** | **Backend & Database:** Node.js, Express, MongoDB, RESTful APIs & Authentication. |
+| **04** | 🔜 **Upcoming** | **Full-Stack Development:** React.js / Next.js, Project Deployment & DevOps Basics. |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Current Tech Stack
+
+Technologies I have actively studied and applied in projects:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-007ACC?style=flat-square&logo=Semgrep&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  
-  <br/>
-
-  <!-- Game Dev & AI -->
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=muhammad-ebad-05&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <!-- Stats Card (Matching Dark Theme) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=muhammad-ebad-05&layout=compact&theme=dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ebad-05&theme=dark&border_color=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Commit Streak" />
-</div>
-
----
-
-### 🚀 Featured Projects Showcase
-
-*(Pin your best projects on your main profile page to complete the look)*
-
-| Project Name | Description | Tech Stack | Repository Link |
-| :--- | :--- | :--- | :--- |
-| ⚡ **Alpha Agency** | Commercial Startup Landing Page with interactive features & custom design. | HTML5, CSS3, JavaScript | [View Code](https://github.com/muhammad-ebad-05) |
-| 🌐 **Saylani Welfare Portal** | Responsive multi-page UI built during SMIT Web Dev course. | HTML, CSS | [View Code](https://github.com/muhammad-ebad-05) |
-| 🧪 **Periodic Table App** | Clean, semantic chemical elements grid built strictly from scratch. | HTML, CSS | [View Code](https://github.com/muhammad-ebad-05) |
-| 🎮 **Roblox Obby Game** | 3D Game Course Project featuring unique game mechanics & level design. | Roblox Studio, Lua | [View Code](https://github.com/muhammad-ebad-05) |
-
----
-
-<div align="center">
-  <sub>Built with 💙 by <b>Muhammad Ebad</b></sub>
+  <sub>Built with focus and discipline by <b>Muhammad Ebad</b>. Let's connect!</sub>
 </div>
