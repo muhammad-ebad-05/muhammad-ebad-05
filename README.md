@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Typing Animated Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Muhammad+Ebad+%F0%9F%91%8B;SMIT+Trainee+%7C+Batch+24;Frontend+Web+Developer;Building+Modern+%26+Responsive+Apps" alt="Hi! I'm Muhammad Ebad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Muhammad+Ebad+%F0%9F%91%8B;SMIT+Trainee+%7C+Batch+24;Learning+JavaScript+%26+Frontend;HTML5+%26+CSS3+Focused" alt="Hi! I'm Muhammad Ebad" />
 
   <p align="center">
-    🚀 <b>Aspiring Full-Stack Web Developer</b> &nbsp;|&nbsp; 🎨 <b>UI/UX & Layout Specialist</b>
+    🚀 <b>Aspiring Web Developer</b> &nbsp;|&nbsp; 🎓 <b>SMIT Student (Batch 24)</b>
   </p>
 
   <!-- Visitor Counter & Status Badges -->
@@ -39,63 +39,8 @@
 
 ### 🎓 SMIT Academic Roadmap (Batch 24)
 
-I am pursuing an intensive **1-Year Modern Web and App Development** diploma at **Saylani Mass IT Training (SMIT)**.
+I am pursuing an intensive **1-Year Modern Web and App Development** course at **Saylani Mass IT Training (SMIT)**.
 
 | Module | Status | Curriculum & Core Competencies |
 | :---: | :---: | :--- |
-| **01** | ✅ **Completed** | **Web Foundations:** HTML5 Semantic Markup, Modern CSS3 Architecture, Flexbox, CSS Grid & Mobile-First Responsive Design. |
-| **02** | 🚧 **In Progress** | **JavaScript & UI Logic:** ES6+ Syntax, DOM Manipulation, Event Handling, Modern Async Logic & APIs. |
-| **03** | 🔜 **Upcoming** | **Backend Engineering:** Node.js, Express.js Server Setup, REST APIs & MongoDB Database Architecture. |
-| **04** | 🔜 **Upcoming** | **Full-Stack Ecosystem:** React.js / Next.js Framework, State Management, App Deployment & DevOps Basics. |
-
----
-
-### 🛠️ Languages & Technical Arsenal
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=muhammad-ebad-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58A6FF" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=muhammad-ebad-05&layout=compact&theme=tokyonight&border_color=58A6FF" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ebad-05&theme=tokyonight&border=58A6FF" alt="Streak Stats" />
-</div>
-
----
-
-### ⚡ Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ebad-05&theme=tokyonight&hide_border=false" alt="Activity Graph" />
-</div>
-
----
-
-### 🌟 Featured Projects Showcase
-
-| Project | Key Features | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🚀 **Alpha Agency** | Startup landing page with custom branding, services layout, and interactive estimators. | HTML5, CSS3, JS | [View Code](https://github.com/muhammad-ebad-05/Alpha-Agency) |
-| 🏰 **Explore Sindh** | Regional travel & historical showcase platform structured with clean semantic markup. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05/Explore-Sindh) |
-| 🧪 **Periodic Table App** | Digital chemical elements matrix built using clean semantic HTML and custom CSS. | HTML5, CSS3 | [View Code](https://github.com/muhammad-ebad-05/Periodic-Table-HTML-CSS) |
-
----
-
-<div align="center">
-  <sub>🔥 <i>Crafted with passion & code discipline by <b>Muhammad Ebad</b> (SMIT Batch 24)</i></sub>
-</div>
+| **01** | ✅ **Completed
