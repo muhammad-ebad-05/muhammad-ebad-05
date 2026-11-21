@@ -1,17 +1,17 @@
 <div align="center">
 
   <!-- Clean Simple Header Badges -->
-  <img src="https://img.shields.io/badge/HI!_I'M_MUHAMMAD_EBAD-ASPIRING_WEB_DEVELOPER-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Hi! I'm Muhammad Ebad" />
-  <img src="https://img.shields.io/badge/KARACHI_|_PAKISTAN-SMIT_BATCH_24-2ea043?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=24292e" alt="Karachi SMIT Batch 24" />
-
-  <br />
-  <br />
+  
 
   <!-- Typing Subtitle -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Muhammad+Ebad+%F0%9F%91%8B;SMIT+Trainee+%7C+Batch+24;Learning+JavaScript+%26+Web+Dev;HTML5+%26+CSS3+Completed" alt="Typing Intro" />
 
   <br />
+<img src="https://img.shields.io/badge/HI!_I'M_MUHAMMAD_EBAD-ASPIRING_WEB_DEVELOPER-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Hi! I'm Muhammad Ebad" />
+  <img src="https://img.shields.io/badge/KARACHI_|_PAKISTAN-SMIT_BATCH_24-2ea043?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=24292e" alt="Karachi SMIT Batch 24" />
 
+  <br />
+  <br />
   <!-- Contact & Profile Views -->
   <p align="center">
     <a href="mailto:mebad858@gmail.com">
