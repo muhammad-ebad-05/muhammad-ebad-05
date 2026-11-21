@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Muhammad+Ebad;Frontend+Web+Developer;SMIT+Trainee+%7C+Batch+12" alt="Muhammad Ebad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi!+I'm+Muhammad+Ebad+%F0%9F%91%8B;Frontend+Web+Developer;SMIT+Trainee+%7C+Batch+24" alt="Hi! I'm Muhammad Ebad" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-muhammad--ebad--05-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mebad858@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mebad858@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mebad858%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=muhammad-ebad-05&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
@@ -20,30 +20,27 @@
 
 ### 👨‍💻 About Me
 
-A passionate aspiring **Frontend Web Developer** based in Karachi, Pakistan. Currently, I am undergoing intensive professional training at **SMIT (Saylani Mass IT Training)** in the *Modern Web and App Development* program.
+Hi! I'm **Muhammad Ebad**, a focused aspiring **Frontend Web Developer** from Karachi, Pakistan (Batch 24). I am currently doing my training at **SMIT (Saylani Mass IT Training)** in the *Modern Web and App Development* program, having completed the first module with HTML5 and CSS3.
 
-### 🎓 SMIT Course Progress
-
-Currently enrolled in the 1-Year Diploma program. My learning journey is structured into specific modules.
+### 🎓 SMIT Course Progress (Batch 24)
 
 | Module # | Status | Focus Area / Technologies |
 | :--- | :--- | :--- |
-| **01** | ✅ **Completed** | **Foundational Web Technologies:** Advanced HTML5 Semantics, CSS3 Styling, Responsive Web Design (RWD), CSS Flexbox & Grid. |
-| **02** | 🚧 **In Progress**| **JavaScript Deep Dive:** ES6+, DOM Manipulation, Asynchronous JS, API Integration, Modern JS Frameworks. |
-| **03** | 🔜 **Upcoming** | **Backend & Database:** Node.js, Express, MongoDB, RESTful APIs & Authentication. |
-| **04** | 🔜 **Upcoming** | **Full-Stack Development:** React.js / Next.js, Project Deployment & DevOps Basics. |
+| **01** | ✅ **Completed** | **Foundational Web Technologies:** HTML5 Semantics, CSS3 Styling, Responsive Design, Flexbox & Grid. |
+| **02** | 🚧 **In Progress** | **JavaScript & Frontend Logic:** ES6+, DOM Manipulation, Events, APIs & Modern Frontend Tools. |
+| **03** | 🔜 **Upcoming** | **Backend & Database:** Server-side Development, APIs & Database Fundamentals. |
+| **04** | 🔜 **Upcoming** | **Full-Stack Applications:** Complete Web & App Architecture, Deployment & Best Practices. |
 
 ---
 
 ### 🛠️ Current Tech Stack
 
-Technologies I have actively studied and applied in projects:
-
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive_Design-007ACC?style=flat-square&logo=Semgrep&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Responsive_Design-007ACC?style=flat-square&logo=Semgrep&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -58,5 +55,5 @@ Technologies I have actively studied and applied in projects:
 ---
 
 <div align="center">
-  <sub>Built with focus and discipline by <b>Muhammad Ebad</b>. Let's connect!</sub>
+  <sub>Built with consistency and discipline by <b>Muhammad Ebad</b> | Batch 24</sub>
 </div>
